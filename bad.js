@@ -79,7 +79,7 @@ async function loadTournaments(){
        console.log($('#tournament-select').select2('data'));
        })
    }
-   
+
    main()
    
    
